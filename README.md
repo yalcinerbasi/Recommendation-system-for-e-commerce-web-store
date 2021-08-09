@@ -1,4 +1,4 @@
-### REQUIRED FRAMEWORK
+### REQUIREMENT
 To Run API:
 - Python 3
 Framework
