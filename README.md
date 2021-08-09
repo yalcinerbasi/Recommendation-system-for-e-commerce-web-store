@@ -1,4 +1,4 @@
-### REQUIREMENT
+### Requirement
 To Run API:
 - Python 3
 Framework
@@ -7,11 +7,11 @@ Framework
 ![image](https://user-images.githubusercontent.com/52570293/128670756-dabac84f-52e5-46d6-9e0f-c0892231d860.png)
 
 
-### USER GUIDE
+### User Guide
 
 After the dowloanded GitHub Repository, you will run Api.ipynb and then click login.html
 
-### HOW IT IS SEEN
+### How it is seen
 
 ![image](https://user-images.githubusercontent.com/52570293/128669503-6d088a40-4591-4103-93d2-93d729db25b1.png)
 
