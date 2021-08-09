@@ -11,6 +11,8 @@ Framework
 
 After the dowloanded GitHub Repository, you will run Api.ipynb and then click login.html
 
+### HOW IT IS SEEN
+
 ![image](https://user-images.githubusercontent.com/52570293/128669503-6d088a40-4591-4103-93d2-93d729db25b1.png)
 
 ![image](https://user-images.githubusercontent.com/52570293/128669431-b99efe77-d90a-4445-80b2-9d898121d82e.png)
