@@ -1,4 +1,13 @@
-## USER GUIDE
+### REQUIRED FRAMEWORK
+To Run API:
+- Python 3
+Framework
+- Flask
+
+![image](https://user-images.githubusercontent.com/52570293/128670756-dabac84f-52e5-46d6-9e0f-c0892231d860.png)
+
+
+### USER GUIDE
 
 After the dowloanded GitHub Repository, you will run Api.ipynb and then click login.html
 
