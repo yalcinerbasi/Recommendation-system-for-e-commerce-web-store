@@ -10,7 +10,7 @@ Framework
 
 ### User Guide
 
-After the dowloanded GitHub Repository, you need extract data.zip and run Api.ipynb and then click login.html
+After the dowloanded GitHub Repository, you need to extract data.zip and run Api.ipynb and then click login.html
 
 ### How it is seen
 
